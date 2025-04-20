@@ -10,6 +10,9 @@ assignees: ''
 **Select the project**
 - [ ] Easy-Speedruntimer
 - [ ] Void Dimension
+- [ ] Glue Arrows
+- [ ] Snowy Grass Addon
+- [ ] to much apples
 - [ ] Invisible Turtle Helmets
 
 **Describe the bug**  
