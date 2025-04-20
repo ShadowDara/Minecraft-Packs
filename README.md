@@ -30,8 +30,6 @@ NOTE:
 |  /function d4r4_dimension:uninstall   |   uninstalls the Datapack  |
 |  /scoreboard players set #timer d4r4_dimension_paste 600   |   sets the teleport timer to 600 seconds |
 
----
-
 ### For Ideas
 - reachme_shadowdara+modrinth@gmail.com or [Google Form](https://forms.gle/5tz3EfeitoBgqWwz6) or Discord | Shadowdara
 
