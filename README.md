@@ -10,6 +10,9 @@ This is collecting Issue Repository for my Minecraft Packs!
 
 ### This is the Issue Repository for
 
+- [Simple Timer](https://modrinth.com/datapack/simpletimer)
+  - Click <a href="https://github.com/ShadowDara/Modrinth-Packs/wiki">here</a> to get to the Simpletimer Wiki!
+
 - [Easy Speedruntimer](https://modrinth.com/datapack/easyspeedruntimer)
 
 - [Void Dimension](https://modrinth.com/datapack/easy-void-dimension)

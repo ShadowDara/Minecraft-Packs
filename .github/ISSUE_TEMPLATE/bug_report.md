@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **Select the project**
+- [ ] Simple Timer
 - [ ] Easy-Speedruntimer
 - [ ] Void Dimension
 - [ ] Glue Arrows
