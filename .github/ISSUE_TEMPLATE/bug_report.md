@@ -7,26 +7,26 @@ assignees: ''
 
 ---
 
-**Beschreibe den Fehler**
-Eine klare und prägnante Beschreibung des Fehlers.
+**Select the project**
+- [ ] Easy-Speedruntimer
+- [ ] Void Dimension
+- [ ] Invisible Turtle Helmets
 
-**Wie kann man den Fehler reproduzieren?**
-Schritte zum Reproduzieren des Verhaltens:
-1. Gehe zu '...'
-2. Klicke auf '....'
-3. Scrolle nach unten zu '....'
-4. Fehler sehen
+**Describe the bug**  
+A clear and concise description of the issue.
 
-**Erwartetes Verhalten**
-Was sollte stattdessen passieren?
+**How to reproduce the bug**  
+Steps to reproduce the behavior:  
+1. Go to '...'  
+2. Click on '....'  
+3. Scroll down to '....'  
+4. See the error
 
-**Screenshots**
-Füge ggf. Screenshots bei.
+**Expected behavior**  
+What should happen instead?
 
-**System (bitte ausfüllen):**
-- OS: [z. B. Windows 10, macOS 14]
-- Browser [z. B. Chrome, Safari]
-- Version [z. B. 1.0.0]
+**Screenshots**  
+Add screenshots if applicable.
 
-**Zusätzliche Informationen**
-Weitere Hinweise, Logs, etc.
+**Additional information**  
+Any other relevant information, logs, etc.
