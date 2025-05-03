@@ -6,15 +6,15 @@
     "###"
   ],
   "key": {
-    "#": {
+    "a": {
       "item": "minecraft:quartz"
     },
-    "a": {
+    "#": {
       "item": "minecraft:apple"
     }
   },
   "result": {
     "item": "to_much_apples_mod:quartz",
-    "count": 1
+    "count": 8
   }
 }

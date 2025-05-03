@@ -6,15 +6,15 @@
       "###"
     ],
     "key": {
-      "#": {
+      "a": {
         "item": "minecraft:pink_dye"
       },
-      "a": {
+      "#": {
         "item": "minecraft:apple"
       }
     },
     "result": {
       "item": "to_much_apples_mod:pink_apple",
-      "count": 1
+      "count": 8
     }
 }

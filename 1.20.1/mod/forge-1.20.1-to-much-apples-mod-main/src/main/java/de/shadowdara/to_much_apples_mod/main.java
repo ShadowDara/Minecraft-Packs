@@ -1,3 +1,7 @@
+// to much apples by Shadowdara
+// apache 2.0 license
+// https://github.com/shadowdara
+
 package de.shadowdara.to_much_apples_mod;
 
 import com.mojang.logging.LogUtils;

@@ -6,15 +6,15 @@
     "###"
   ],
   "key": {
-    "#": {
+    "a": {
       "item": "minecraft:lapis_lazuli"
     },
-    "a": {
+    "#": {
       "item": "minecraft:apple"
     }
   },
   "result": {
     "item": "to_much_apples_mod:lapis_apple",
-    "count": 1
+    "count": 8
   }
 }

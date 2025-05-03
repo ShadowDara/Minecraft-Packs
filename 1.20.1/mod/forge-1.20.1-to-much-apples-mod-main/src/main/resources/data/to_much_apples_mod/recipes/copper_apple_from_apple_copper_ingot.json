@@ -6,15 +6,15 @@
     "###"
   ],
   "key": {
-    "#": {
+    "a": {
       "item": "minecraft:copper_ingot"
     },
-    "a": {
+    "#": {
       "item": "minecraft:apple"
     }
   },
   "result": {
     "item": "to_much_apples_mod:copper_apple",
-    "count": 1
+    "count": 8
   }
 }
