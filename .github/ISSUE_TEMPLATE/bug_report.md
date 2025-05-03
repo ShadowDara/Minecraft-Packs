@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Melde einen Fehler, der im Projekt auftritt
+about: Reposrt an Error about the project
 title: "[BUG] "
 labels: bug
 assignees: ''
@@ -15,6 +15,9 @@ assignees: ''
 - [ ] Snowy Grass Addon
 - [ ] to much apples
 - [ ] Invisible Turtle Helmets
+
+**Paste the version link**
+Go to Modrinth and copy the link for your packversion or add the version number
 
 **Describe the bug**  
 A clear and concise description of the issue.
