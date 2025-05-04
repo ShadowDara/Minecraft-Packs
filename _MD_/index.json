@@ -8,5 +8,15 @@
         "name": "to_much_apples_1.20.1",
         "path": "../1.20.1/mod/forge-1.20.1-to-much-apples-mod-main",
         "programm": "idea"
+    },
+    {
+        "name": "advaned_dimension_1.20.1",
+        "path": "../1.20.1/datapack/advanced-dimensions",
+        "programm": "code"
+    },
+    {
+        "name": "random_teleport_totem_1.20.4",
+        "path": "../1.20.4/datapack/random_tp_totem",
+        "programm": "code"
     }
 ]

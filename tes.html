@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Farben hinzufügen</title>
+</head>
+<body>
+  <h1>Farbe hinzufügen</h1>
+
+  <input type="text" id="new_color" placeholder="Neue Farbe eingeben">
+  <button type="button" id="add_color_btn">Hinzufügen</button>
+
+  <ul id="color_list"></ul>
+
+  <script>
+    const currentSettings = {
+      saved_colors: []
+    };
+
+    document.getElementById('add_color_btn').addEventListener('click', () => {
+      addColor(currentSettings);
+    });
+
+    async function addColor(currentSettings) {
+      const inputElement = document.getElementById('new_color');
+      const colorInput = inputElement.value.trim();
+
+      console.log("Input received:", colorInput);
+
+      if (colorInput !== "") {
+        currentSettings.saved_colors.push(colorInput);
+        inputElement.value = "";
+
+        updateColorUI(currentSettings.saved_colors);
+        console.log('Farbe gespeichert:', colorInput);
+      }
+    }
+
+    function updateColorUI(colors) {
+      const list = document.getElementById('color_list');
+      list.innerHTML = "";
+
+      colors.forEach(color => {
+        const li = document.createElement('li');
+        li.textContent = color;
+        list.appendChild(li);
+      });
+    }
+  </script>
+</body>
+</html>
